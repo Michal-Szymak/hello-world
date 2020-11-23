@@ -1,1 +1,2 @@
-To jest mój pierwszy wpis w repozytorium.
+To jest mój pierwszy wpisik w repozytorium.
+Druga linijka
